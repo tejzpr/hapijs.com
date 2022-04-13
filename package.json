@@ -4,7 +4,7 @@
   "description": "hapijs.com",
   "main": "server.js",
   "dependencies": {
-    "async": "1.5.x",
+    "async": "3.2.2",
     "boom": "3.x.x",
     "catbox-memory": "2.x.x",
     "catbox-redis": "1.x.x",
